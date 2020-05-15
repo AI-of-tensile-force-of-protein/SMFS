@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06374ead-4ee1-4bdf-a835-458feefc252b" name="Default Changelist" comment="" />
+    <list default="true" id="06374ead-4ee1-4bdf-a835-458feefc252b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_dtree.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_svm.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pca.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/目标数据_svm" beforeDir="false" afterPath="$PROJECT_DIR$/目标数据_svm" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,21 +29,35 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
   <component name="ProjectId" id="1VvGSQawiBIbpViZZf5wfAK7yGq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="J:/铁柱快变成大神" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.hello">
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.hello - 测试版">
+    <configuration name="hello - 测试版" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_project2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +69,27 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello - 测试版.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -55,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_project2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,8 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train_4 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_project2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,8 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_4 (2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="train_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_project2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,10 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hello - 测试版" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.train_8" />
         <item itemvalue="Python.hello" />
-        <item itemvalue="Python.train" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.train_4 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -175,80 +218,95 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="541" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578268764761">
+    <state x="308" y="95" key="#Notifications" timestamp="1586851711587">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="541" y="240" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1474.864@62.0.1474.864" timestamp="1578268764761" />
-    <state x="577" y="189" key="FileChooserDialogImpl" timestamp="1581989718361">
+    <state x="308" y="95" key="#Notifications/62.0.1474.864@62.0.1474.864" timestamp="1586851711587" />
+    <state x="541" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588643677333">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="577" y="189" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1581989718361" />
-    <state width="1364" height="147" key="GridCell.Tab.0.bottom" timestamp="1582003156055">
+    <state x="541" y="240" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1474.864@62.0.1474.864" timestamp="1588643677333" />
+    <state x="552" y="273" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586221023663">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1364" height="147" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1582003156055" />
-    <state width="1364" height="146" key="GridCell.Tab.0.bottom/64.0.1472.864@64.0.1472.864" timestamp="1581316738257" />
-    <state width="1364" height="147" key="GridCell.Tab.0.center" timestamp="1582003156054">
+    <state x="552" y="273" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/62.0.1474.864@62.0.1474.864" timestamp="1586221023663" />
+    <state x="578" y="189" key="FileChooserDialogImpl" timestamp="1587285500086">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state x="577" y="189" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1586771315189" />
+    <state x="578" y="189" key="FileChooserDialogImpl/63.0.1473.864@63.0.1473.864" timestamp="1587285500086" />
+    <state width="1452" height="208" key="GridCell.Tab.0.bottom" timestamp="1589532668611">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1364" height="147" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1582003156054" />
-    <state width="1364" height="146" key="GridCell.Tab.0.center/64.0.1472.864@64.0.1472.864" timestamp="1581316738257" />
-    <state width="1364" height="147" key="GridCell.Tab.0.left" timestamp="1582003156054">
+    <state width="1452" height="208" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1589532668611" />
+    <state width="1451" height="237" key="GridCell.Tab.0.bottom/63.0.1473.864@63.0.1473.864" timestamp="1588051599900" />
+    <state width="1364" height="215" key="GridCell.Tab.0.bottom/64.0.1472.864@64.0.1472.864" timestamp="1586855756617" />
+    <state width="1452" height="208" key="GridCell.Tab.0.center" timestamp="1589532668611">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1364" height="147" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1582003156054" />
-    <state width="1364" height="146" key="GridCell.Tab.0.left/64.0.1472.864@64.0.1472.864" timestamp="1581316738257" />
-    <state width="1364" height="147" key="GridCell.Tab.0.right" timestamp="1582003156055">
+    <state width="1452" height="208" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1589532668611" />
+    <state width="1451" height="237" key="GridCell.Tab.0.center/63.0.1473.864@63.0.1473.864" timestamp="1588051599899" />
+    <state width="1364" height="215" key="GridCell.Tab.0.center/64.0.1472.864@64.0.1472.864" timestamp="1586855756617" />
+    <state width="1452" height="208" key="GridCell.Tab.0.left" timestamp="1589532668611">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1364" height="147" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1582003156055" />
-    <state width="1364" height="146" key="GridCell.Tab.0.right/64.0.1472.864@64.0.1472.864" timestamp="1581316738257" />
-    <state x="300" y="63" key="SettingsEditor" timestamp="1581942338445">
+    <state width="1452" height="208" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1589532668611" />
+    <state width="1451" height="237" key="GridCell.Tab.0.left/63.0.1473.864@63.0.1473.864" timestamp="1588051599899" />
+    <state width="1364" height="215" key="GridCell.Tab.0.left/64.0.1472.864@64.0.1472.864" timestamp="1586855756617" />
+    <state width="1452" height="208" key="GridCell.Tab.0.right" timestamp="1589532668611">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="300" y="63" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1581942338445" />
-    <state x="489" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1578706479497">
+    <state width="1452" height="208" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1589532668611" />
+    <state width="1451" height="237" key="GridCell.Tab.0.right/63.0.1473.864@63.0.1473.864" timestamp="1588051599900" />
+    <state width="1364" height="215" key="GridCell.Tab.0.right/64.0.1472.864@64.0.1472.864" timestamp="1586855756617" />
+    <state width="1364" height="254" key="GridCell.Tab.1.bottom" timestamp="1587906587258">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state width="1364" height="254" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1586829404929" />
+    <state width="1364" height="254" key="GridCell.Tab.1.bottom/63.0.1473.864@63.0.1473.864" timestamp="1587906587258" />
+    <state width="1364" height="254" key="GridCell.Tab.1.center" timestamp="1587906587258">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state width="1364" height="254" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1586829404929" />
+    <state width="1364" height="254" key="GridCell.Tab.1.center/63.0.1473.864@63.0.1473.864" timestamp="1587906587258" />
+    <state width="1364" height="254" key="GridCell.Tab.1.left" timestamp="1587906587258">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state width="1364" height="254" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1586829404929" />
+    <state width="1364" height="254" key="GridCell.Tab.1.left/63.0.1473.864@63.0.1473.864" timestamp="1587906587258" />
+    <state width="1364" height="254" key="GridCell.Tab.1.right" timestamp="1587906587258">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state width="1364" height="254" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1586829404929" />
+    <state width="1364" height="254" key="GridCell.Tab.1.right/63.0.1473.864@63.0.1473.864" timestamp="1587906587258" />
+    <state x="-13" y="127" key="SettingsEditor" timestamp="1587893126302">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state x="300" y="63" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1586221337643" />
+    <state x="-13" y="127" key="SettingsEditor/63.0.1473.864@63.0.1473.864" timestamp="1587893126302" />
+    <state x="387" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586243865717">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="489" y="259" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1578706479497" />
-    <state x="459" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1581940919547">
-      <screen x="62" y="0" width="1474" height="864" />
+    <state x="387" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1474.864@62.0.1474.864" timestamp="1586243865717" />
+    <state x="460" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1588032469571">
+      <screen x="63" y="0" width="1473" height="864" />
     </state>
-    <state x="459" y="186" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1581940919547" />
+    <state x="459" y="186" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1585567474923" />
+    <state x="460" y="186" width="672" height="678" key="search.everywhere.popup/63.0.1473.864@63.0.1473.864" timestamp="1588032469571" />
     <state x="460" y="186" width="672" height="678" key="search.everywhere.popup/64.0.1472.864@64.0.1472.864" timestamp="1581305122465" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/train.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/train_8.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/train.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/hello.py</url>
-          <line>201</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/hello.py</url>
-          <line>206</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/hello.py</url>
-          <line>126</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/hello.py</url>
-          <line>124</line>
-          <option name="timeStamp" value="26" />
+          <url>file://$PROJECT_DIR$/hello - 测试版.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

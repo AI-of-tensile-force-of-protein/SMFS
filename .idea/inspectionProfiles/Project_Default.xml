@@ -24,6 +24,7 @@
           <option value="PyQt5.QtWidgets.valueChanged.connect" />
           <option value="PyQt5.QtCore.pyqtBoundSignal.connect" />
           <option value="property.setter" />
+          <option value="int.connect" />
         </list>
       </option>
     </inspection_tool>
